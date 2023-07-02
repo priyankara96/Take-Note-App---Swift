@@ -1,2 +1,2 @@
-# Take-Note-App---Swift
-UIKit - SE40200 Assignment 01
+# Take Note App - Swift
+UIKit - SE4020 Assignment 01
